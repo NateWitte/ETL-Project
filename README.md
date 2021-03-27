@@ -10,9 +10,9 @@ This project demonstrates using ETL (extract, transform, load). We used two csv 
 1. In the pgadmin_keys.py file, type "password = '*YOUR PGADMIN PASSWORD HERE*'"
 1. Save the pgadmin_keys.py file.
 1. Open a git bash (Windows) or terminal (Mac) at the ETL-Project folder.
-1. Type '<source activate PythonData>'.
-1. Type '<jupyter notebook>'.
-1. Open pgAdmin and enter credentials.
+1. Type `<source activate PythonData>`.
+1. Type `<jupyter notebook>`.
+1. Open pgAdmin and enter credentials. 
 1. Create a database called "breweries_db".
 1. Open a query tool at the "breweries_db" database.
 1. Click open file and navigate to the 'schema.sql' file in the ETL-Project folder.
